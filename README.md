@@ -38,6 +38,7 @@ Check out some of my notable projects:
 ## 📫 Get in Touch  
 - **LinkedIn**: [Vebri Satriadi](https://www.linkedin.com/in/vebri-satriadi/)
 - **Email**: vebrisatriadi@gmail.com
+- **Medium**: [Vebri Satriadi](https://medium.com/@vbrstrdi)
 
 Ops, in case you need my CV, kindly download that on:
 [Vebri's Curiculum Vitae](https://drive.google.com/file/d/1eQEtlWzLuRZCZeux3HJbLaekhC48c3CU/view?usp=sharing)
