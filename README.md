@@ -14,7 +14,7 @@ I'm **Vebri Satriadi**, a passionate **Data Engineer** with 4+ years of experien
 
 ## 🛠️ Tech Stack  
 - **Languages**: Python, SQL, Shell Scripting  
-- **Data Processing**: Apache Airflow, Apache Kafka, Spark  
+- **Data Processing**: Apache Airflow, Apache Kafka, Spark, Flink
 - **Cloud**: GCP (BigQuery, Pub/Sub, Dataproc), AWS (S3, Lambda, Redshift)  
 - **DevOps**: Docker, Kubernetes, Terraform  
 - **Version Control**: Git  
