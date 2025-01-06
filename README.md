@@ -31,7 +31,8 @@ Check out some of my notable projects:
 1. **[Streaming Processing](https://github.com/vebrisatriadi/stream-processing)**: Build large scale of Streaming Data Processing with Apache Kafka and Apache Flink.  
 2. **[MLOps](https://github.com/vebrisatriadi/mlops)**: Personal project utilized MLFlow to research Machine Learning model and build MLOps.  
 3. **[End-to-end Data Pipeline](https://github.com/vebrisatriadi/end-to-end-pipeline)**: Batch Processing with Medalion Architecture and Jinja2 Template.
-4. **[Apache Spark with Scala](https://github.com/vebrisatriadi/scala-spark)**: Mini Project build data processing from Postgres to Postres with Apache Spark (Scala).    
+4. **[Apache Spark with Scala](https://github.com/vebrisatriadi/scala-spark)**: Mini Project build data processing from Postgres to Postres with Apache Spark (Scala).
+5. **[LLM with Langchain framework](https://github.com/vebrisatriadi/llm-langchain)**: Simple RAG models with domain specific and small computation. 
 
 ---
 
